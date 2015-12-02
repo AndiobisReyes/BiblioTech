@@ -346,9 +346,9 @@
             this.dataGridViewTextBoxColumn9,
             this.dataGridViewTextBoxColumn10});
             this.librosDataGridView.DataSource = this.librosBindingSource;
-            this.librosDataGridView.Location = new System.Drawing.Point(16, 343);
+            this.librosDataGridView.Location = new System.Drawing.Point(12, 343);
             this.librosDataGridView.Name = "librosDataGridView";
-            this.librosDataGridView.Size = new System.Drawing.Size(530, 220);
+            this.librosDataGridView.Size = new System.Drawing.Size(534, 220);
             this.librosDataGridView.TabIndex = 23;
             // 
             // dataGridViewTextBoxColumn1
@@ -415,8 +415,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.LightSeaGreen;
-            this.ClientSize = new System.Drawing.Size(558, 607);
+            this.BackColor = System.Drawing.Color.DodgerBlue;
+            this.ClientSize = new System.Drawing.Size(558, 566);
             this.Controls.Add(this.librosDataGridView);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.pictureBox1);

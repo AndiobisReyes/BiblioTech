@@ -45,6 +45,13 @@ namespace WindowsFormsApplication1
             {
                 this.usuarioTableAdapter.InsertQuery(nombreTextBox.Text, apellidoTextBox.Text, nicknameTextBox.Text, passwordTextBox.Text, telefonoTextBox.Text, direccionTextBox.Text, correoElectronicoTextBox.Text);
                 this.usuarioTableAdapter.Fill(this.bibliotecaDataSet.Usuario);
+                nombreTextBox.Clear();
+                apellidoTextBox.Clear();
+                nicknameTextBox.Clear();
+                passwordTextBox.Clear();
+                telefonoTextBox.Clear();
+                direccionTextBox.Clear();
+                correoElectronicoTextBox.Clear();
             }
             else
             {

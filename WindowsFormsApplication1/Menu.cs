@@ -56,5 +56,11 @@ namespace WindowsFormsApplication1
             this.usuarioTableAdapter.Fill(this.bibliotecaDataSet.Usuario);
 
         }
+
+        private void cerrarSeccionToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Hide();
+            new Login().Show();
+        }
     }
 }

@@ -17,3 +17,23 @@ C:\Users\chris\onedrive\documents\visual studio 2015\Projects\Bibliotech\Windows
 C:\Users\chris\onedrive\documents\visual studio 2015\Projects\Bibliotech\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Autores.resources
 C:\Users\chris\onedrive\documents\visual studio 2015\Projects\Bibliotech\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Prestamos.resources
 C:\Users\chris\onedrive\documents\visual studio 2015\Projects\Bibliotech\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnviarMensajes.resources
+C:\Users\chris\Documents\Bibliotech\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\chris\Documents\Bibliotech\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\chris\Documents\Bibliotech\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\chris\Documents\Bibliotech\WindowsFormsApplication1\bin\Debug\Biblioteca.accdb
+C:\Users\chris\Documents\Bibliotech\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\chris\Documents\Bibliotech\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\chris\Documents\Bibliotech\WindowsFormsApplication1\bin\Debug\es-DO\WindowsFormsApplication1.resources.dll
+C:\Users\chris\Documents\Bibliotech\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\Bibliotech\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Autores.resources
+C:\Users\chris\Documents\Bibliotech\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnviarMensajes.resources
+C:\Users\chris\Documents\Bibliotech\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\chris\Documents\Bibliotech\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Guardar.resources
+C:\Users\chris\Documents\Bibliotech\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\chris\Documents\Bibliotech\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Prestamos.resources
+C:\Users\chris\Documents\Bibliotech\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\chris\Documents\Bibliotech\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.registro_usuario.resources
+C:\Users\chris\Documents\Bibliotech\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.es-DO.resources
+C:\Users\chris\Documents\Bibliotech\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\chris\Documents\Bibliotech\WindowsFormsApplication1\obj\Debug\es-DO\WindowsFormsApplication1.resources.dll
+C:\Users\chris\Documents\Bibliotech\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Comprovacion.resources

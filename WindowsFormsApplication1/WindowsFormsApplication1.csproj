@@ -57,6 +57,13 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>BibliotecaDataSet.xsd</DependentUpon>
     </Compile>
+    <Compile Include="Comprovacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Comprovacion.Designer.cs">
+      <DependentUpon>Comprovacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Database Layer\Admin.cs" />
     <Compile Include="Database Layer\IDatabase.cs" />
     <Compile Include="Database Layer\IDatabaseManagement.cs" />
     <Compile Include="Database Layer\SQLOleDbConnection.cs" />
@@ -101,6 +108,9 @@
     <Compile Include="Shared\BiblioTech.cs" />
     <EmbeddedResource Include="Autores.resx">
       <DependentUpon>Autores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comprovacion.resx">
+      <DependentUpon>Comprovacion.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="EnviarMensajes.resx">
       <DependentUpon>EnviarMensajes.cs</DependentUpon>
