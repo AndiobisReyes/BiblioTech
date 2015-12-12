@@ -23,7 +23,7 @@ namespace WindowsFormsApplication1
             
             if (txtcode.Text == Database_Layer.Admin.codigoAdmin)
             {
-               new Menu().Show();
+               new registro_usuario().Show();
                 Hide();
             }
             else
@@ -34,7 +34,7 @@ namespace WindowsFormsApplication1
                 suma = suma + 1;
             }   
             
-            if (suma > 3)
+            if (suma > 2)
             {
                 MessageBox.Show("Ha exedido el numero de intentos el programa se cerrara");
                 Close();

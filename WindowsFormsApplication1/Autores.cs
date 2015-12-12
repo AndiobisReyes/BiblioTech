@@ -34,10 +34,9 @@ namespace WindowsFormsApplication1
 
         private void button2_Click(object sender, EventArgs e)
         {
+            this.autoresTableAdapter.DeleteQuery(int.Parse(idTextBox.Text));
+            this.autoresTableAdapter.Fill(this.bibliotecaDataSet.Autores);
 
-            new Menu().Show();
-            Hide();
-           
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -56,6 +55,12 @@ namespace WindowsFormsApplication1
         {
             this.autoresTableAdapter.GetDataBy2(nombreTextBox.Text);
             this.autoresTableAdapter.Fill(this.bibliotecaDataSet.Autores);
+        }
+
+        private void atrasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            new Menu().Show();
+            Hide();
         }
     }
 }

@@ -37,3 +37,9 @@ C:\Users\chris\Documents\Bibliotech\WindowsFormsApplication1\obj\Debug\WindowsFo
 C:\Users\chris\Documents\Bibliotech\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 C:\Users\chris\Documents\Bibliotech\WindowsFormsApplication1\obj\Debug\es-DO\WindowsFormsApplication1.resources.dll
 C:\Users\chris\Documents\Bibliotech\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Comprovacion.resources
+C:\Users\chris\Documents\Bibliotech\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Info.resources
+C:\Users\chris\Documents\Bibliotech\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RecibirMensaje.resources
+C:\Users\chris\Documents\Bibliotech\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\chris\Documents\Bibliotech\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\chris\Documents\Bibliotech\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\chris\Documents\Bibliotech\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.application

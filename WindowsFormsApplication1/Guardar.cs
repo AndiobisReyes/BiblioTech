@@ -34,9 +34,8 @@ namespace WindowsFormsApplication1
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Menu fm = new Menu();
-            fm.Show();
-            Hide();
+            this.librosTableAdapter.DeleteQuery(int.Parse(idTextBox.Text));
+            this.librosTableAdapter.Fill(this.bibliotecaDataSet.Libros);
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -60,6 +59,12 @@ namespace WindowsFormsApplication1
         {
             this.librosTableAdapter.UpdateQuery(tituloTextBox.Text, autorTextBox.Text, editorialTextBox.Text, int.Parse(nopagTextBox.Text), descripcionTextBox.Text, estadoTextBox.Text, fechaTextBox.Text, idiomaTextBox.Text, tipoTextBox.Text, tituloTextBox.Text);
             this.librosTableAdapter.Fill(this.bibliotecaDataSet.Libros);
+        }
+
+        private void atrasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            new Menu().Show();
+            Hide();
         }
     }
 }

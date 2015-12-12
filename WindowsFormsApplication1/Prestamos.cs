@@ -27,8 +27,6 @@ namespace WindowsFormsApplication1
 
         private void Prestamos_Load(object sender, EventArgs e)
         {
-            // TODO: This line of code loads data into the 'bibliotecaDataSet.Autores' table. You can move, or remove it, as needed.
-            this.autoresTableAdapter.Fill(this.bibliotecaDataSet.Autores);
             // TODO: This line of code loads data into the 'bibliotecaDataSet.Estudiantes' table. You can move, or remove it, as needed.
             this.estudiantesTableAdapter.Fill(this.bibliotecaDataSet.Estudiantes);
 
@@ -53,8 +51,13 @@ namespace WindowsFormsApplication1
 
         private void button4_Click(object sender, EventArgs e)
         {
-            Menu fm = new Menu();
-            fm.Show();
+            this.estudiantesTableAdapter.DeleteQuery(int.Parse(idTextBox.Text));
+            this.estudiantesTableAdapter.Fill(this.bibliotecaDataSet.Estudiantes);
+        }
+
+        private void opcionesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            new Menu().Show();
             Hide();
         }
     }

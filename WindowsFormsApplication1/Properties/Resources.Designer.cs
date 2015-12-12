@@ -63,6 +63,86 @@ namespace WindowsFormsApplication1.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _012_restart_512 {
+            get {
+                object obj = ResourceManager.GetObject("012_restart-512", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _10363922_764678310289342_2316310277217388239_n {
+            get {
+                object obj = ResourceManager.GetObject("10363922_764678310289342_2316310277217388239_n", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _10553485_1637489609803992_5601356845416014883_n {
+            get {
+                object obj = ResourceManager.GetObject("10553485_1637489609803992_5601356845416014883_n", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _11536057_893666004044682_539789298549009863_n {
+            get {
+                object obj = ResourceManager.GetObject("11536057_893666004044682_539789298549009863_n", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _11831757_867071550044888_9061468194893233855_n {
+            get {
+                object obj = ResourceManager.GetObject("11831757_867071550044888_9061468194893233855_n", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _12027805_945594788857875_3928104245909185352_n {
+            get {
+                object obj = ResourceManager.GetObject("12027805_945594788857875_3928104245909185352_n", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _13759 {
+            get {
+                object obj = ResourceManager.GetObject("13759", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Atu_2cRguqmlo1f2bvQCmkIiSAQ2jnVNLpk5Ls2IqBOn {
+            get {
+                object obj = ResourceManager.GetObject("Atu_2cRguqmlo1f2bvQCmkIiSAQ2jnVNLpk5Ls2IqBOn", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap books {
             get {
                 object obj = ResourceManager.GetObject("books", resourceCulture);
@@ -83,9 +163,40 @@ namespace WindowsFormsApplication1.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap email_mail_letter_envelope_message_mailing_inbox_open_business_text_receive_notification_newsletter_flat_design_icon_512 {
+            get {
+                object obj = ResourceManager.GetObject("email_mail_letter_envelope_message_mailing_inbox_open_business_text_receive_notif" +
+                        "ication_newsletter_flat_design_icon-512", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap floppy_128 {
+            get {
+                object obj = ResourceManager.GetObject("floppy-128", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap formularios_1 {
             get {
                 object obj = ResourceManager.GetObject("formularios-1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Help_mark_query_question_support_512 {
+            get {
+                object obj = ResourceManager.GetObject("Help_mark_query_question_support-512", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -113,6 +224,28 @@ namespace WindowsFormsApplication1.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap paper_plane_planning_start_startup_up_business_launch_fly_flight_travel_origami_takeoff_freedom_free_solution_idea_creative_freelance_flying_handmade_flat_design_icon_512 {
+            get {
+                object obj = ResourceManager.GetObject("paper_plane_planning_start_startup_up_business_launch_fly_flight_travel_origami_t" +
+                        "akeoff_freedom_free_solution_idea_creative_freelance_flying_handmade_flat_design" +
+                        "_icon-512", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap people_icon {
+            get {
+                object obj = ResourceManager.GetObject("people-icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap save_icon {
             get {
                 object obj = ResourceManager.GetObject("save-icon", resourceCulture);
@@ -123,9 +256,39 @@ namespace WindowsFormsApplication1.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Search {
+            get {
+                object obj = ResourceManager.GetObject("Search", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap share_2_icon {
+            get {
+                object obj = ResourceManager.GetObject("share-2-icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap writer_male_light_256 {
             get {
                 object obj = ResourceManager.GetObject("writer_male_light_256", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap wrong_01_512 {
+            get {
+                object obj = ResourceManager.GetObject("wrong-01-512", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

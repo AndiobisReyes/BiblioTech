@@ -8,6 +8,6 @@ namespace WindowsFormsApplication1.Database_Layer
 {
     public class Admin
     {
-        public const string codigoAdmin = "leoncampusanoAguero";
+        public const string codigoAdmin = "leoncampusanoaguero";
     }
 }

@@ -118,25 +118,73 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="writer_male_light_256" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\writer_male_light_256.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="012_restart-512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\012_restart-512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="save-icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\save-icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Help_mark_query_question_support-512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Help_mark_query_question_support-5121.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="10553485_1637489609803992_5601356845416014883_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\10553485_1637489609803992_5601356845416014883_n.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="email_mail_letter_envelope_message_mailing_inbox_open_business_text_receive_notification_newsletter_flat_design_icon-512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\email_mail_letter_envelope_message_mailing_inbox_open_business_text_receive_notification_newsletter_flat_design_icon-512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="logo-BIVIR" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\logo-BIVIR.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="email-icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\email-icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="floppy-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\floppy-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="libros" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\libros.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="people-icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\people-icon1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="10363922_764678310289342_2316310277217388239_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\10363922_764678310289342_2316310277217388239_n.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="books" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\books.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paper_plane_planning_start_startup_up_business_launch_fly_flight_travel_origami_takeoff_freedom_free_solution_idea_creative_freelance_flying_handmade_flat_design_icon-512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\paper_plane_planning_start_startup_up_business_launch_fly_flight_travel_origami_takeoff_freedom_free_solution_idea_creative_freelance_flying_handmade_flat_design_icon-5121.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="formularios-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\formularios-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="books" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\books.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="email-icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\email-icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="13759" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\13759.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="libros" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\libros.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="writer_male_light_256" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\writer_male_light_256.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="12027805_945594788857875_3928104245909185352_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\12027805_945594788857875_3928104245909185352_n.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Search" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Search1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="11536057_893666004044682_539789298549009863_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\11536057_893666004044682_539789298549009863_n.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Atu_2cRguqmlo1f2bvQCmkIiSAQ2jnVNLpk5Ls2IqBOn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Atu_2cRguqmlo1f2bvQCmkIiSAQ2jnVNLpk5Ls2IqBOn.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wrong-01-512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wrong-01-5121.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="share-2-icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\share-2-icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="11831757_867071550044888_9061468194893233855_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\11831757_867071550044888_9061468194893233855_n.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

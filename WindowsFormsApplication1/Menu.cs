@@ -39,7 +39,8 @@ namespace WindowsFormsApplication1
 
         private void button6_Click(object sender, EventArgs e)
         {
-
+            new EnviarMensajes().Show();
+            Hide();
         }
 
         private void usuarioBindingNavigatorSaveItem_Click(object sender, EventArgs e)
@@ -61,6 +62,29 @@ namespace WindowsFormsApplication1
         {
             Hide();
             new Login().Show();
+        }
+
+        private void cerrarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
+
+        private void cerrarSeccionToolStripMenuItem_Click_1(object sender, EventArgs e)
+        {
+            new Login().Show();
+            Hide();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            new Info().Show();
+            Hide();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            new RecibirMensaje().Show();
+            Hide();
         }
     }
 }

@@ -12,6 +12,7 @@ namespace WindowsFormsApplication1
 {
     public partial class registro_usuario : Form
     {
+        public static string user;
         public registro_usuario()
         {
             InitializeComponent();
@@ -45,6 +46,7 @@ namespace WindowsFormsApplication1
             {
                 this.usuarioTableAdapter.InsertQuery(nombreTextBox.Text, apellidoTextBox.Text, nicknameTextBox.Text, passwordTextBox.Text, telefonoTextBox.Text, direccionTextBox.Text, correoElectronicoTextBox.Text);
                 this.usuarioTableAdapter.Fill(this.bibliotecaDataSet.Usuario);
+                user = nicknameTextBox.Text;
                 nombreTextBox.Clear();
                 apellidoTextBox.Clear();
                 nicknameTextBox.Clear();
@@ -52,6 +54,11 @@ namespace WindowsFormsApplication1
                 telefonoTextBox.Clear();
                 direccionTextBox.Clear();
                 correoElectronicoTextBox.Clear();
+                
+                MessageBox.Show("Registro realizado con exito");
+                new Login().Show();
+                Hide();
+                
             }
             else
             {
@@ -59,6 +66,12 @@ namespace WindowsFormsApplication1
             
             }
 
+        }
+
+        private void atrasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            new Login().Show();
+            Hide();
         }
     }
 }
